@@ -1,3 +1,1 @@
-# eks-config
-
-#
+# eks config
